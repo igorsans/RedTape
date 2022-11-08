@@ -2,6 +2,7 @@
     "name": "Igor Santos",
     "job" : "Desenvolvedor",
     "github" : "igorsans",
+    "bg": "https://images.unsplash.com/photo-1459233313842-cd392ee2c388?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "playlists": {
         "Top 10": [
             {
@@ -148,9 +149,9 @@
         "url" : "https://www.youtube.com/channel/UC652oRUvX1onwrrZ8ADJRPw"
       },
       {
-        "name": "Rosalia",
-        "img" : "https://avatars.githubusercontent.com/u/102307968?v=4",
-        "url" : "https://www.youtube.com/channel/UC652oRUvX1onwrrZ8ADJRPw"
+        "name": "ROSALÍA",
+        "img" : "https://yt3.ggpht.com/K0LXBmMUT_LHH0g0uaT-eTTrq1rEtIfUkAmdcUyK8jG5TUx_pVq-ofPdSQvbR6C3FwG4FQy4GX8=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCQt9awGIFZeldFsATZNeJag"
       }
     ]
 }
