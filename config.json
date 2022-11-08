@@ -1,9 +1,9 @@
 {
-    "name": "Igor Santos (Dev Full Stack)",
-    "job" : "unployeer",
+    "name": "Igor Santos",
+    "job" : "Desenvolvedor",
     "github" : "igorsans",
     "playlists": {
-        "jogos": [
+        "Top 10": [
             {
               "title": "Frostpunk - Neve e Steak tartare",
               "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
@@ -130,5 +130,27 @@
             "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
           }
         ]
+    },
+    "favorites":[
+      {
+        "name": "Drake",
+        "img" : "https://yt3.ggpht.com/ytc/AMLnZu8h3cs9KuwGOH9oNDl3tRyNO7-3yHUuaigEjBDqLg=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCByOQJjav0CUDwxCk-jVNRQ"
+      },
+      {
+        "name": "21 Savage",
+        "img" : "https://yt3.ggpht.com/ytc/AMLnZu8Z1SjjtasLog7ZcGQXL6mSoSs5E3-bzsAUYh6z=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCOjEHmBKwdS7joWpW0VrXkg"
+      },
+      {
+        "name": "Playboi Carti",
+        "img" : "https://yt3.ggpht.com/ytc/AMLnZu8niexQzxfkxx0phdTsU3cDka8u14cc1lVtt6fmWA=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UC652oRUvX1onwrrZ8ADJRPw"
+      },
+      {
+        "name": "Rosalia",
+        "img" : "https://avatars.githubusercontent.com/u/102307968?v=4",
+        "url" : "https://www.youtube.com/channel/UC652oRUvX1onwrrZ8ADJRPw"
       }
+    ]
 }

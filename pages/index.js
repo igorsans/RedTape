@@ -3,6 +3,8 @@ import styled from "styled-components";
 import { CSSReset } from "../src/components/CSSReset.js";
 import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
+import { Banner } from "../src/components/Banner";
+import { Favoritos } from "../src/components/Favoritos";
 
 function HomePage() {
   return (
@@ -15,6 +17,7 @@ function HomePage() {
           flex: 1,
         }}
       >
+        <Banner/>
         <Menu />
         <Header />
         <Timeline playlists={config.playlists} />
@@ -60,8 +63,6 @@ function Timeline(props) {
     <StyledTimeline>
       {playlistNames.map((playlistName) => {
         const videos = props.playlists[playlistName];
-        console.log(playlistName);
-        console.log(videos);
         return (
           <section>
             <h2>{playlistName}</h2>
@@ -77,8 +78,8 @@ function Timeline(props) {
             </div>
           </section>
         );
-        return;
       })}
+      <Favoritos favoritos={config.favorites}/>
     </StyledTimeline>
   );
 }
