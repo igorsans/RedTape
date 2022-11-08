@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import Search from "./components/Search";
-const logo = "/RedTape.png"
+const logo = "./RedTape.png"
 // import logo from "/RedTape.png"
 
 const StyledMenu = styled.header`
