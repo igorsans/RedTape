@@ -5,8 +5,10 @@ import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
 import { Banner } from "../src/components/Banner";
 import { Favoritos } from "../src/components/Favoritos";
+import { useState } from "react";
 
 function HomePage() {
+  const [valorDaBusca, setValorDaBusca] = useState("")
   return (
     <>
       <CSSReset />
@@ -17,10 +19,10 @@ function HomePage() {
           flex: 1,
         }}
       >
-        <Banner/>
-        <Menu />
+        <Banner bg={config.bg}/>
+        <Menu valorDaBusca={valorDaBusca} setValorDaBusca={setValorDaBusca} />
         <Header />
-        <Timeline playlists={config.playlists} />
+        <Timeline valorDaBusca={valorDaBusca} playlists={config.playlists} />
       </div>
     </>
   );
@@ -34,7 +36,6 @@ const StyledHeader = styled.div`
     border-radius: 50%;
   }
   .user-info {
-    margin-top: 50px;
     display: flex;
     align-items: center;
     width: 100%;
@@ -57,19 +58,22 @@ function Header() {
     </StyledHeader>
   );
 }
-function Timeline(props) {
+function Timeline({valorDaBusca, ...props}) {
   const playlistNames = Object.keys(props.playlists);
   return (
     <StyledTimeline>
       {playlistNames.map((playlistName) => {
         const videos = props.playlists[playlistName];
         return (
-          <section>
+          <section key={playlistName}>
             <h2>{playlistName}</h2>
             <div>
-              {videos.map((video) => {
+              {videos.filter((video) => {
+                return video.title.toLowerCase()
+                .includes(valorDaBusca.toLowerCase())
+              }).map((video) => {
                 return (
-                  <a href={video.url}>
+                  <a key={video.url} href={video.url}>
                     <img src={video.thumb} />
                     <span>{video.title}</span>
                   </a>

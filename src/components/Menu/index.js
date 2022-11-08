@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Search from "./components/Search";
 const logo = "/RedTape.png"
 // import logo from "/RedTape.png"
 
@@ -26,12 +27,13 @@ const StyledMenu = styled.header`
   }
 `;
 
-export default function Menu() {
+export default function Menu({setValorDaBusca, valorDaBusca}) {
   return (
     <StyledMenu>
       <div>
         <Logo />
       </div>
+      <Search setValorDaBusca={setValorDaBusca} valorDaBusca={valorDaBusca} />
     </StyledMenu>
   );
 }

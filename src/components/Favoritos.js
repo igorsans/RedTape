@@ -23,7 +23,7 @@ export function Favoritos({ favoritos }) {
     <StyledFavorites>
       {favoritos.map((item) => {
         return (
-          <div>
+          <div key={item.name}>
             <a className="card" href={item.url}>
               <img className="iconFav" src={item.img} />
               <span>{item.name}</span>
