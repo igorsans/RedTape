@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 const StyledFavorites = styled.div`
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
   width: 100%;
     .iconFav{
