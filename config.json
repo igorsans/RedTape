@@ -6,129 +6,255 @@
     "playlists": {
         "Top 10": [
             {
-              "title": "Frostpunk - Neve e Steak tartare",
-              "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-              "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+              "title": "Drake & 21 Savage - Privileged Rappers | A COLORS SHOW",
+              "url": "https://www.youtube.com/watch?v=WlaGHS_qs58",
+              "thumb": "https://img.youtube.com/vi/WlaGHS_qs58/hqdefault.jpg"
             },
             {
-              "title": "Frostpunk - Neve e Steak tartare",
-              "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-              "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+              "title": "Djavan - Samurai (Áudio Oficial) ft. Stevie Wonder",
+              "url": "https://www.youtube.com/watch?v=3-qwqrQXsXQ",
+              "thumb": "https://img.youtube.com/vi/3-qwqrQXsXQ/hqdefault.jpg"
             },
             {
-              "title": "Gas Station Simulator - 8 dias sem dormir!",
-              "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-              "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+              "title": "Don Toliver - No Idea [Official Music Video]",
+              "url": "https://www.youtube.com/watch?v=_r-nPqWGG6c",
+              "thumb": "https://img.youtube.com/vi/_r-nPqWGG6c/hqdefault.jpg"
             },
             {
-              "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-              "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-              "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+              "title": "DRAM - Broccoli feat. Lil Yachty (Official Music Video)",
+              "url": "https://www.youtube.com/watch?v=K44j-sb1SRY",
+              "thumb": "https://img.youtube.com/vi/K44j-sb1SRY/hqdefault.jpg"
             },
             {
-              "title": "Netdecking Estraga o Magic?",
-              "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-              "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+              "title": "Seigfried - Frank Ocean",
+              "url": "https://www.youtube.com/watch?v=p_oL2OIGo04",
+              "thumb": "https://img.youtube.com/vi/p_oL2OIGo04/hqdefault.jpg"
             },
             {
-              "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-              "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-              "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+              "title": "Killing In The Name - Rage Against the Machine",
+              "url": "https://www.youtube.com/watch?v=ctiKD8jtvV8",
+              "thumb": "https://img.youtube.com/vi/ctiKD8jtvV8/hqdefault.jpg"
             },
             {
-              "title": "We Were Here Together - Os Enigmas deste Mundo",
-              "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-              "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+              "title": "Daft Punk - One More Time (Official Video)",
+              "url": "https://www.youtube.com/watch?v=FGBhQbmPwH8",
+              "thumb": "https://img.youtube.com/vi/FGBhQbmPwH8/hqdefault.jpg"
             },
             {
-              "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-              "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-              "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+              "title": "Gorillaz - DARE (Official Video)",
+              "url": "https://www.youtube.com/watch?v=uAOR6ib95kQ",
+              "thumb": "https://img.youtube.com/vi/uAOR6ib95kQ/hqdefault.jpg"
+            },
+            {
+              "title": "Kali Uchis - Dead To Me (Acoustic)",
+              "url": "https://www.youtube.com/watch?v=mbwUs1rnuQg",
+              "thumb": "https://img.youtube.com/vi/mbwUs1rnuQg/hqdefault.jpg"
+            },
+            {
+              "title": "Doja Cat - Mooo! (Official Video)",
+              "url": "https://www.youtube.com/watch?v=mXnJqYwebF8",
+              "thumb": "https://img.youtube.com/vi/mXnJqYwebF8/hqdefault.jpg"
             }
+
           ],
-        "front-end": [
+        "Você precisa conhecer": [
           {
-            "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-            "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-            "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+            "title": "Jorja Smith - Blue Lights | A COLORS SHOW",
+            "url": "https://www.youtube.com/watch?v=fYwRsJAPfec",
+            "thumb": "https://img.youtube.com/vi/fYwRsJAPfec/hqdefault.jpg"
           },
           {
-            "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-            "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-            "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+            "title": "AUDREY NUNA - damn Right (Official Video)",
+            "url": "https://www.youtube.com/watch?v=kbBL3e00qrI",
+            "thumb": "https://img.youtube.com/vi/kbBL3e00qrI/hqdefault.jpg"
           },
           {
-            "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-            "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-            "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+            "title": "Benny & Lil' Ze",
+            "url": "https://www.youtube.com/watch?v=Dhlq0enRj6E",
+            "thumb": "https://img.youtube.com/vi/Dhlq0enRj6E/hqdefault.jpg"
           },
           {
-            "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-            "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-            "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            "title": "bLAck pARty - Dancing (Official Video)",
+            "url": "https://www.youtube.com/watch?v=3UYcfRojogw",
+            "thumb": "https://img.youtube.com/vi/3UYcfRojogw/hqdefault.jpg"
           },
           {
-            "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-            "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+            "title": "GoldLink - Crew ft. Brent Faiyaz, Shy Glizzy",
+            "url": "https://www.youtube.com/watch?v=nhNqbe6QENY",
+            "thumb": "https://img.youtube.com/vi/nhNqbe6QENY/hqdefault.jpg"
           },
           {
-            "title": "Como Foi Programado um App Que Faz Mágica",
-            "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-            "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+            "title": "Baby Keem - lost souls (Official Audio) ft. Brent Faiyaz",
+            "url": "https://www.youtube.com/watch?v=Sa9p3OnbThQ",
+            "thumb": "https://img.youtube.com/vi/Sa9p3OnbThQ/hqdefault.jpg"
           },
           {
-            "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-            "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-            "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            "title": "The Internet - Hold On (Official Audio)",
+            "url": "https://www.youtube.com/watch?v=z8Kr_aFB6Ww",
+            "thumb": "https://img.youtube.com/vi/z8Kr_aFB6Ww/hqdefault.jpg"
           },
           {
-            "title": "5 Erros Históricos do CSS",
-            "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-            "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+            "title": "STEVE LACY - RYD / DARK RED",
+            "url": "https://www.youtube.com/watch?v=x-OzspEcQG8",
+            "thumb": "https://img.youtube.com/vi/x-OzspEcQG8/hqdefault.jpg"
           },
           {
-            "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-            "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-            "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            "title": "Aminé - Turf (Stripped) (Vevo LIFT)",
+            "url": "https://www.youtube.com/watch?v=AZR5LYwMuZY",
+            "thumb": "https://img.youtube.com/vi/AZR5LYwMuZY/hqdefault.jpg"
+          },
+          {
+            "title": "Hundred Waters - “Show Me Love” (Skrillex Remix) ft. Chance The Rapper, Moses Sumney, Robin Hannibal",
+            "url": "https://www.youtube.com/watch?v=J5bAVKzrBzI",
+            "thumb": "https://img.youtube.com/vi/J5bAVKzrBzI/hqdefault.jpg"
+          },
+          {
+            "title" : "Amphetamine - Smino",
+            "url" : "https://www.youtube.com/watch?v=YmNj2FvdHho",
+            "thumb" : "https://img.youtube.com/vi/YmNj2FvdHho/hqdefault.jpg"
+          },
+          {
+            "title" : "Steve Lacy - Bad Habit (Official Video)",
+            "url" : "https://www.youtube.com/watch?v=VF-FGf_ZZiI",
+            "thumb" : "https://img.youtube.com/vi/VF-FGf_ZZiI/hqdefault.jpg"
+          },
+          {
+            "title" : "Route 94 - My Love (Official Video) ft. Jess Glynne",
+            "url" : "https://www.youtube.com/watch?v=BS46C2z5lVE",
+            "thumb" : "https://img.youtube.com/vi/BS46C2z5lVE/hqdefault.jpg"
+          },
+          {
+            "title" : "Gorgon City - Imagination ft. Katy Menditta (Official Audio)",
+            "url" : "https://www.youtube.com/watch?v=O48hUxxJxS8",
+            "thumb" : "https://img.youtube.com/vi/O48hUxxJxS8/hqdefault.jpg"
+          },
+          {
+            "title" : "Duke Dumont - I Got U ft. Jax Jones (Official Music Video)",
+            "url" : "https://www.youtube.com/watch?v=FHCYHldJi_g",
+            "thumb" : "https://img.youtube.com/vi/FHCYHldJi_g/hqdefault.jpg"
+          },
+          {
+            "title" : "I Think I Like When It Rains - WILLIS",
+            "url" : "https://www.youtube.com/watch?v=HpYdA-06jTc",
+            "thumb" : "https://img.youtube.com/vi/HpYdA-06jTc/hqdefault.jpg"
           }
         ],
-        "back-end": [
+        "Hip Hop / R&B": [
           {
-            "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-            "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-            "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+            "title": "Drake, 21 Savage - Broke Boys (Audio)",
+            "url": "https://youtu.be/cE0iNes-bMQ",
+            "thumb": "https://img.youtube.com/vi/cE0iNes-bMQ/hqdefault.jpg"
           },
           {
-            "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-            "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-            "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            "title": "Alright - Kendrick Lamar",
+            "url": "https://www.youtube.com/watch?v=JocAXINz-YE",
+            "thumb": "https://img.youtube.com/vi/JocAXINz-YE/hqdefault.jpg"
           },
           
           {
-            "title": "O que é o Java? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-            "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+            "title": "Frank Ocean - Nikes",
+            "url": "https://www.youtube.com/watch?v=diIFhc_Kzng",
+            "thumb": "https://img.youtube.com/vi/diIFhc_Kzng/hqdefault.jpg"
           },
           {
-            "title": "O que é Machine Learning? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-            "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            "title": "Selah - Kayne West",
+            "url": "https://www.youtube.com/watch?v=6CNPg2IQoC0",
+            "thumb": "https://img.youtube.com/vi/6CNPg2IQoC0/hqdefault.jpg"
           },
           {
-            "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-            "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+            "title": "Know Yourself - Drake",
+            "url": "https://www.youtube.com/watch?v=IV-XT27UOHo",
+            "thumb": "https://img.youtube.com/vi/IV-XT27UOHo/hqdefault.jpg"
           },
           {
-            "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-            "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+            "title": "IAMDDB - More (Official Video)",
+            "url": "https://www.youtube.com/watch?v=9jytbdG_f2Q",
+            "thumb": "https://img.youtube.com/vi/9jytbdG_f2Q/hqdefault.jpg"
           },
           {
-            "title": "O que é o C#? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-            "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+            "title": "Pink Matter - Frank Ocean",
+            "url": "https://www.youtube.com/watch?v=uaLV003llhY",
+            "thumb": "https://img.youtube.com/vi/uaLV003llhY/hqdefault.jpg"
+          },
+          {
+            "title" : "Abra - Pull Up (Official Music Video)",
+            "url" : "https://www.youtube.com/watch?v=ZvVJx7dcoqo",
+            "thumb" : "https://img.youtube.com/vi/ZvVJx7dcoqo/hqdefault.jpg"
+          },
+          {
+            "title" : "SZA - Shirt (Official Video)",
+            "url" : "https://www.youtube.com/watch?v=hdFDrjfW548",
+            "thumb" : "https://img.youtube.com/vi/hdFDrjfW548/hqdefault.jpg"
+          },
+          {
+            "title" : "Rob $tone - Chill Bill ft. J.Davis & Spooks (Dir. Alex Vibe)",
+            "url" : "https://www.youtube.com/watch?v=J7IMwop3RHs",
+            "thumb" : "https://img.youtube.com/vi/J7IMwop3RHs/hqdefault.jpg"
+          },
+          {
+            "title" : "Liniker x Daniel Caesar (Nathan Murari Mashup)",
+            "url" : "https://www.youtube.com/watch?v=6XPKPVY5DOU",
+            "thumb" : "https://img.youtube.com/vi/6XPKPVY5DOU/hqdefault.jpg"
+          },
+          {
+            "title" : "Skepta - No Security",
+            "url" : "https://www.youtube.com/watch?v=f6suaDGWmOo",
+            "thumb" : "https://img.youtube.com/vi/f6suaDGWmOo/hqdefault.jpg"
+          },
+          {
+            "title" : "A$AP Rocky - Praise The Lord (Da Shine) (Official Audio) ft. Skepta",
+            "url" : "https://www.youtube.com/watch?v=_eDpH4hMW1o",
+            "thumb" : "https://img.youtube.com/vi/_eDpH4hMW1o/hqdefault.jpg"
+          },
+          {
+            "title" : "Sheck Wes - Mo Bamba (Official Music Video)",
+            "url" : "https://www.youtube.com/watch?v=VWoIpDVkOH0",
+            "thumb" : "https://img.youtube.com/vi/VWoIpDVkOH0/hqdefault.jpg"
+          },
+          {
+            "title" : "$UICIDEBOY$ - PARIS",
+            "url" : "https://www.youtube.com/watch?v=nqtobIpZt68",
+            "thumb" : "https://img.youtube.com/vi/nqtobIpZt68/hqdefault.jpg"
+          },
+          {
+            "title" : "GHOSTEMANE - Mercury: Retrograde",
+            "url" : "https://www.youtube.com/watch?v=DRz42ZOScT8",
+            "thumb" : "https://img.youtube.com/vi/DRz42ZOScT8/hqdefault.jpg"
+          },
+          {
+            "title" : "Hope - XXXTENTACION",
+            "url" : "https://www.youtube.com/watch?v=KyAcMpQUY5s",
+            "thumb" : "https://img.youtube.com/vi/KyAcMpQUY5s/hqdefault.jpg"
+          },
+          {
+            "title" : "Lucid Dreams - Juice WRLD",
+            "url" : "https://www.youtube.com/watch?v=hHtv2XMZlKs",
+            "thumb" : "https://img.youtube.com/vi/hHtv2XMZlKs/hqdefault.jpg"
+          },
+          {
+            "title" : "Better Now - Post Malone",
+            "url" : "https://www.youtube.com/watch?v=0tTn95TLIaw",
+            "thumb" : "https://img.youtube.com/vi/0tTn95TLIaw/hqdefault.jpg"
+          },
+          {
+            "title" : "The Box - Roddy Ricch",
+            "url" : "https://www.youtube.com/watch?v=IxJjY5T9yag",
+            "thumb" : "https://img.youtube.com/vi/IxJjY5T9yag/hqdefault.jpg"
+          },
+          {
+            "title" : "Fair Trade - Drake",
+            "url" : "https://www.youtube.com/watch?v=mn9pFxxPIDY",
+            "thumb" : "https://img.youtube.com/vi/mn9pFxxPIDY/hqdefault.jpg"
+          },
+          {
+            "title" : "OUT WEST - JACKBOYS",
+            "url" : "https://www.youtube.com/watch?v=ss5msvokUkY",
+            "thumb" : "https://img.youtube.com/vi/ss5msvokUkY/hqdefault.jpg"
+          },
+          {
+            "title" : "Bryson Tiller - Don't (Explicit Version)",
+            "url" : "https://www.youtube.com/watch?v=d7cVLE4SaN0",
+            "thumb" : "https://img.youtube.com/vi/d7cVLE4SaN0/hqdefault.jpg"
           }
         ]
     },
@@ -152,6 +278,41 @@
         "name": "ROSALÍA",
         "img" : "https://yt3.ggpht.com/K0LXBmMUT_LHH0g0uaT-eTTrq1rEtIfUkAmdcUyK8jG5TUx_pVq-ofPdSQvbR6C3FwG4FQy4GX8=s88-c-k-c0x00ffffff-no-rj",
         "url" : "https://www.youtube.com/channel/UCQt9awGIFZeldFsATZNeJag"
+      },
+      {
+        "name": "A$APROCKY",
+        "img" : "https://yt3.ggpht.com/qooi16J0T_qf5aIeJut-BALbqItOpq2UD-F2JBQqk1ehHLt89rErgVExURQ6UkFK3fPQFmyq=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UC0KAFLxIiaR_FFNYDL3utGw"
+      },
+      {
+        "name": "SZA",
+        "img" : "https://yt3.ggpht.com/4_eDnZKOS1DiU1GBRXxfAHyjUrc4Xv-uqScX52PMEYwAoqCvvs5FdL_uSK2iYAjJyQMba3Rs5Q=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCO5IQ70V7l-XpHW40HwaGsw"
+      },
+      {
+        "name": "ABRA",
+        "img" : "https://yt3.ggpht.com/WzjlXwoD7ls3iFrPDiydpXGgwmViOqzLC6Q5n7J1B0EbDCy_BGW0bKt1sZlKHwLD7A-uroyJ=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCmWtK-2cGg4Qwex68m3xvJw"
+      },
+      {
+        "name": "$uicideboy$",
+        "img" : "https://yt3.ggpht.com/91jK-FAYxHroR_VKpWM-5JE2FivIUrBCpdNGMCPV0QKGgTZjn6E6TMRHNs-y0X1OwRjATkHXAyY=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCU5AbNuMPGB491GcqXuzwKw"
+      },
+      {
+        "name": "IAM DDB",
+        "img" : "https://yt3.ggpht.com/6Y7wqGBHI5jsazzLM7fEF2cCXltkjGHdg3MBnFxcWvrrvhETrs3TmaFZX-2ol4tuCh5lNxGESEA=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCdADIhED9-Plw02DwWqFPZA"
+      },
+      {
+        "name": "Blonded",
+        "img" : "https://yt3.ggpht.com/NVkcbKeUX_hL85BEGGiZB8-ZqKBpAbb1KvaEcTsAdTaZmKAAuF6OVJCLJ-YaB1Rhr0crl4waoek=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UCqf-kTp9ERV5T1rPayno7LA"
+      },
+      {
+        "name": "getter",
+        "img" : "https://yt3.ggpht.com/ytc/AMLnZu9qCCtJ1HK3oGC0kFNa2Kve2QX45FLCpo-oNWvExQ=s88-c-k-c0x00ffffff-no-rj",
+        "url" : "https://www.youtube.com/channel/UC8iAV2sa8UQNXU__jVQpFzQ"
       }
     ]
 }
