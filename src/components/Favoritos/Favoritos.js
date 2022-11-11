@@ -25,7 +25,7 @@ export function Favoritos({ favoritos }) {
       {favoritos.map((item) => {
         return (
           <div key={item.name}>
-            <a className="card" href={item.url}>
+            <a target="_Blank" className="card" href={item.url}>
               <img className="iconFav" src={item.img} />
               <span>{item.name}</span>
             </a>
