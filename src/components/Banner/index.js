@@ -51,7 +51,7 @@ const StyledVideo = styled.div`
    }
 }
 `;
-export function Banner({ bg, videoURL, videoUp, changeVideoUp }) {
+export default function Banner({ bg, videoURL, videoUp, changeVideoUp }) {
   return (
     <StyledBanner videoUp={videoUp} bg={bg}>
       {videoUp ? (
