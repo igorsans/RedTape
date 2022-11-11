@@ -28,14 +28,26 @@ const StyledSwitch = styled.div`
     content: "";
     background-color: #fafafa;
     border: 1px solid #333333;
-    width: 24px;
-    height: 24px;
-    border-radius: 100%;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
     position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     transition: 0.3s;
+    cursor: pointer;
+  }
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 17px;
+    width: 17px;
+    border-radius: 50%;
+    left: 62%;
+    bottom: 24%;
+    box-shadow: inset 15px -4px 0px 15px #333333;
+    transition: 0.5s;
     cursor: pointer;
   }
   input[type="checkbox"] {
@@ -55,8 +67,7 @@ export default function DarkModeSwitch() {
         contexto.handleChange()
       }} />
       <label htmlFor="darkmode" className="darkmode-switch">
-        <span>🌙</span>
-        <span>☀️</span>
+        <span className="slider"></span>
       </label>
     </StyledSwitch>
   );
