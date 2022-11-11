@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import DarkModeSwitch from "./components/DarkModeSwitch";
 import Search from "./components/Search";
 const logo = "./RedTape.png"
 // import logo from "/RedTape.png"
@@ -34,6 +35,7 @@ export default function Menu({setValorDaBusca, valorDaBusca}) {
         <Logo />
       </div>
       <Search setValorDaBusca={setValorDaBusca} valorDaBusca={valorDaBusca} />
+      <DarkModeSwitch/>
     </StyledMenu>
   );
 }
