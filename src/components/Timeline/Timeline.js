@@ -48,7 +48,8 @@ const StyledTimeline = styled.div`
   }
 `;
 
-export default function Timeline({valorDaBusca, setVideoURL, setVideoUp, body, ...props}) {
+export default function Timeline({valorDaBusca, setVideoURL, setVideoUp, body, playlist, ...props}) {
+
   const playlistNames = Object.keys(props.playlists);
   return (
     <StyledTimeline>

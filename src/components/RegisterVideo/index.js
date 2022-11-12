@@ -1,5 +1,7 @@
 import { useState } from "react";
 import { StyledRegisterVideo } from "./styles";
+import { supabase } from "../../services/videoService";
+
 
 const useForm = (propsDoForm) => {
   const [values, setValues] = useState(propsDoForm.initialValues);
@@ -18,10 +20,12 @@ const useForm = (propsDoForm) => {
   };
 };
 
+
 export default function RegisterVideo() {
   const [formVisivel, setFormVisivel] = useState(false);
+
   const formCadastro = useForm({
-    initialValues: { titulo: "teste", url: "https://youtube.." },
+    initialValues: { titulo: "", url: "" },
   });
   return (
     <StyledRegisterVideo>
@@ -33,6 +37,17 @@ export default function RegisterVideo() {
           onSubmit={(e) => {
             e.preventDefault();
             console.log(formCadastro.values);
+            supabase.from("video").insert({
+                title: formCadastro.values.titulo,
+                url: formCadastro.values.url,
+                thumb: `https://img.youtube.com/vi/${formCadastro.values.url.split('v=', 2)[1]}/hqdefault.jpg`,
+                playlist: "Top 10"
+            })
+            .then((data) => {
+                console.log(data)
+            }).catch((err) => {
+                console.log(err)
+            })
             setFormVisivel(false)
             formCadastro.clearform()
           }}
