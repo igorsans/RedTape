@@ -40,6 +40,7 @@ function HomePage() {
       });
       setPlaylists(novasPlaylists);
     });
+    setpageAtt(false)
   }, [pageAtt]);
 
   return (
