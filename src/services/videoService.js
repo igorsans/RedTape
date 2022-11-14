@@ -11,6 +11,6 @@ export const videoService = () => {
       return supabase
         .from("video")
         .select("*")
-    },
+    }
   };
 };

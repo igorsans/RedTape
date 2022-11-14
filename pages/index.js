@@ -16,19 +16,13 @@ function HomePage() {
   const [videoURL, setVideoURL] = useState("");
   const [videoUp, setVideoUp] = useState(false);
   const [playlists, setPlaylists] = useState({})
-
+  
   const changeVideoUp = () => {
     videoUp ? setVideoUp(false) : setVideoUp(true);
   };
-  const [pageAtt, setpageAtt] = useState(false)
-
-  const channel = supabase
-    .channel('schema-db-changes')
-    .on('postgres_changes', { event: 'INSERT', schema: 'public' }, (payload) => setpageAtt(true))
-    .subscribe()
-
-  const service = videoService();
+  
   useEffect(() => {
+    const service = videoService();
     service.getAllVideos()
     .then((data) => {
       const novasPlaylists = { ...playlists };
@@ -40,8 +34,7 @@ function HomePage() {
       });
       setPlaylists(novasPlaylists);
     });
-    setpageAtt(false)
-  }, [pageAtt]);
+  }, []);
 
   return (
     <>

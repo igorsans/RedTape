@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { StyledRegisterVideo } from "./styles";
 import { supabase } from "../../services/videoService";
+import { useRouter } from "next/router";
 
 
 const useForm = (propsDoForm) => {
@@ -27,6 +28,9 @@ export default function RegisterVideo() {
   const formCadastro = useForm({
     initialValues: { titulo: "", url: "" },
   });
+
+  const router = useRouter();
+
   return (
     <StyledRegisterVideo>
       <button onClick={() => setFormVisivel(true)} className="add-video">
@@ -41,10 +45,11 @@ export default function RegisterVideo() {
                 title: formCadastro.values.titulo,
                 url: formCadastro.values.url,
                 thumb: `https://img.youtube.com/vi/${formCadastro.values.url.split('v=', 2)[1]}/hqdefault.jpg`,
-                playlist: "Top 10"
+                playlist: "Indicadas"
             })
             .then((data) => {
                 console.log(data)
+                router.reload()
             }).catch((err) => {
                 console.log(err)
             })

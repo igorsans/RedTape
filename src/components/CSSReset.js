@@ -30,11 +30,15 @@ export const CSSReset = createGlobalStyle`
   button,
   a {
     text-decoration: none;
+    color: ${({theme}) => theme.textColorBase}
     opacity: 1;
     transition: .3s;
     &:hover,
     &:focus {
       opacity: .5;
+    }
+    &:visited{
+      color: ${({theme}) => theme.textColorBase}
     }
   }
   ::-webkit-scrollbar {
