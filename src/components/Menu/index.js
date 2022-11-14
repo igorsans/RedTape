@@ -1,7 +1,7 @@
 import DarkModeSwitch from "./components/DarkModeSwitch";
 import Search from "./components/Search";
-import Image from "next/image";
-import { StyledMenu } from "./styles";
+// import Image from "next/image";
+import { StyledLogo, StyledMenu } from "./styles";
 
 export default function Menu({setValorDaBusca, valorDaBusca}) {
   return (
@@ -18,8 +18,7 @@ export default function Menu({setValorDaBusca, valorDaBusca}) {
 function Logo() {
   return (
     <div>
-      <Image src="/RedTape.png" width="64" height="64"/>
-      <h1>RedTape</h1>
+      <StyledLogo>RedTape</StyledLogo>
     </div>
   )
 }

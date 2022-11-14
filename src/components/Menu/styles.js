@@ -23,3 +23,10 @@ export const StyledMenu = styled.header`
     }
   }
 `;
+
+export const StyledLogo = styled.h1`
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background: -webkit-linear-gradient(top, ${({ theme }) => theme.borderBase || "#222222"}, ${({ theme }) => theme.textColorBase || "#222222"});
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+`
